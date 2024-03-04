@@ -142,6 +142,7 @@
     git
     go_1_22
     hugo
+    protobuf
     ollama
     gdu
     python3
