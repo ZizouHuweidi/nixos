@@ -188,7 +188,6 @@
     yarn
     nodePackages.typescript-language-server
     bun
-    jetbrains.idea-ultimate
     jdk21
     maven
     kotlin
