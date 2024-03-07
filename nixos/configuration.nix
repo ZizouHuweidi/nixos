@@ -189,6 +189,10 @@
     nodePackages.typescript-language-server
     bun
     jetbrains.idea-ultimate
+    jdk21
+    maven
+    kotlin
+    gradle
     rustup
     gcc
     ripgrep
@@ -362,12 +366,12 @@
     options = "--delete-older-than 7d";
   };
 
-  # programs.nix-ld.enable = true;
-  # programs.nix-ld.libraries = with pkgs;
-  #   [
-  #     # Add any missing dynamic libraries for unpackaged 
-  #     # programs here, NOT in environment.systemPackages
-  #   ];
+   programs.nix-ld.enable = true;
+   programs.nix-ld.libraries = with pkgs;
+     [
+       # Add any missing dynamic libraries for unpackaged
+       # programs here, NOT in environment.systemPackages
+     ];
 
   # This value determines the NixOS release from which the default
   # settings for stateful data, like file locations and database versions
