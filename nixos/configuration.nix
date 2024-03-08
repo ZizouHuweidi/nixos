@@ -188,10 +188,6 @@
     yarn
     nodePackages.typescript-language-server
     bun
-    jdk21
-    maven
-    kotlin
-    gradle
     rustup
     gcc
     ripgrep
