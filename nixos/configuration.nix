@@ -192,7 +192,6 @@
     maven
     kotlin
     gradle
-    dotnet-aspnetcore_8
     rustup
     gcc
     ripgrep
