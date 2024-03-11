@@ -168,7 +168,6 @@
   # $ nix search wget
   environment.systemPackages = with pkgs; [
     kitty
-    python311Packages.pillow
     obsidian
     discord
     vscode
@@ -184,6 +183,8 @@
     python3
     python311Packages.pip
     pipx
+    poetry
+    python311Packages.pillow
     nodejs
     yarn
     nodePackages.typescript-language-server
