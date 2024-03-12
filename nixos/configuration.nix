@@ -182,13 +182,13 @@
     gdu
     python3
     python311Packages.pip
-    pipx
-    poetry
     python311Packages.pillow
+    pipx
+    rye
     nodejs
     yarn
-    nodePackages.typescript-language-server
     bun
+    nodePackages.typescript-language-server
     rustup
     gcc
     ripgrep
