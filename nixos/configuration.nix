@@ -189,6 +189,9 @@
     yarn
     bun
     nodePackages.typescript-language-server
+    jdk21
+    maven
+    jetbrains-toolbox
     rustup
     gcc
     ripgrep
