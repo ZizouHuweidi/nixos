@@ -184,14 +184,11 @@
     python311Packages.pip
     python311Packages.pillow
     pipx
-    rye
+    poetry
     nodejs
     yarn
     bun
     nodePackages.typescript-language-server
-    jdk21
-    maven
-    jetbrains-toolbox
     rustup
     gcc
     ripgrep
