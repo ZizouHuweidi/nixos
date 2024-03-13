@@ -181,10 +181,8 @@
     ollama
     gdu
     python3
-    python311Packages.pip
     python311Packages.pillow
     pipx
-    poetry
     nodejs
     yarn
     bun
