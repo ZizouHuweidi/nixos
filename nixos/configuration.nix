@@ -184,12 +184,12 @@
     python311Packages.pillow
     pipx
     poetry
-    jdk
-    maven
     nodejs
     yarn
     bun
     nodePackages.typescript-language-server
+    jdk
+    maven
     rustup
     gcc
     ripgrep
