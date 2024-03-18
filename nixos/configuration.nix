@@ -183,6 +183,11 @@
     python3
     python311Packages.pillow
     pipx
+    poetry
+    jdk
+    maven
+    gradle
+    jetbrains.idea-ultimate
     nodejs
     yarn
     bun
