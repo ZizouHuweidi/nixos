@@ -186,8 +186,6 @@
     poetry
     jdk
     maven
-    gradle
-    jetbrains.idea-ultimate
     nodejs
     yarn
     bun
