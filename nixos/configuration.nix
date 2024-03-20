@@ -188,14 +188,13 @@
     yarn
     bun
     nodePackages.typescript-language-server
-    jdk
-    maven
     rustup
     gcc
     ripgrep
     tldr
     zoxide
     starship
+    lazygit
     fzf
     zathura
     gradience
