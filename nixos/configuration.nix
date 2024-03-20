@@ -188,7 +188,6 @@
     yarn
     bun
     nodePackages.typescript-language-server
-    rustup
     gcc
     ripgrep
     tldr
