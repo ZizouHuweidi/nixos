@@ -263,7 +263,7 @@
     ntfs3g
     nettools
     transmission-gtk
-
+    texliveFull
     adw-gtk3
     bibata-cursors
     papirus-icon-theme
